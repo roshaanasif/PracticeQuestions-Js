@@ -3,11 +3,22 @@ Practice Quections Of Javascript
 
 **1** String concatination<br>
 **2** Variables<br>
-     **1** _Table_<br>
-     **2** _Pre increment & Post increment_ <br>
-     **3** _Temperature Converter_<br>
-     **4** _Age Finder_<br>
-     **5** _Currency Converter_<br> 
-     **6** _Percentage Finder_<br>
+     **-** _Table_<br>
+     **-** _Pre increment & Post increment_ <br>
+     **-** _Temperature Converter_<br>
+     **-** _Age Finder_<br>
+     **-** _Currency Converter_<br> 
+     **-** _Percentage Finder_<br>
+**2** IFElse Conditions <br>
+     **-** _Gender Greet_<br>
+     **-** _Marksheet_ <br>
+     **-** _Guess A secret Number_<br>
+     **-** _Check Even/Odd number_<br>
+     **-** _Basic Calculator_<br> 
+     **-** _Greator Number_<br>
+     **-** _Vowel teller_<br>
+     **-** _Password Matcher_<br>
+     **-** _Time converter_<br>
+     **-** _Guess Number_<br>
 
 
