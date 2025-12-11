@@ -2,6 +2,7 @@
 Practice Quections Of Javascript 
 
 **1** String concatination<br>
+<br>
 **2** Variables<br>
      **-** _Table_<br>
      **-** _Pre increment & Post increment_ <br>
@@ -9,7 +10,8 @@ Practice Quections Of Javascript
      **-** _Age Finder_<br>
      **-** _Currency Converter_<br> 
      **-** _Percentage Finder_<br>
-**2** IFElse Conditions <br>
+     <br>
+**3** IF Else Conditions <br>
      **-** _Gender Greet_<br>
      **-** _Marksheet_ <br>
      **-** _Guess A secret Number_<br>
